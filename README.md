@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rudresh-pandey
 - 👀 I’m interested in open-sourse and new technologies
-- 🌱 I’m currently learning javascript and it's frameworks
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Android Development
+- 💞️ I’m looking to collaborate on projects related to android development
 - 📫 How to reach me - through my linkedin profile
 
 <!---
