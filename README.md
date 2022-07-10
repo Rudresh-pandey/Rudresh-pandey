@@ -4,7 +4,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+GNC+DHANBAD;React+Developer...;&center=true">
   </p>
-- 🔭 I’m currently working on **CoalAt**
+
 
 - 🌱 I’m currently learning **React**
 
