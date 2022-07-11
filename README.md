@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rudresh Pandey</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudresh-pandey&label=Profile%20views&color=0e75b6&style=flat" alt="rudresh-pandey" /> </p>
+
 <img align ="top" alt="just me" width= "600" src = "https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+GNC+DHANBAD;React+Developer...;&center=true">
