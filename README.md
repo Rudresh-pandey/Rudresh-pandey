@@ -2,7 +2,7 @@
 
 <img align ="top" alt="just me" width= "600" src = "https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=I+am+a+Student;Undergrad+at+GNC+DHANBAD;React+Developer...;&center=true">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=Developer;Learner;...;&center=true">
   </p>
 
 
