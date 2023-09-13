@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&color=4CF783&vCenter=true&lines=Python;Javascript;...;&center=true" />
   </p>
   
-- 🔭 I’m currently working on [KeyType](https://github.com/Rudresh-pandey/KeyType)
+- 🔭 I’m currently working on [TicTacToe_online](https://github.com/Rudresh-pandey/TicTacToe_online)
 
 - 🌱 I’m currently learning **MERN Stack**
 
